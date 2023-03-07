@@ -94,19 +94,19 @@
     "url": "$MSVO_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "msvo",
-    "status": "down",
-    "uptime": "1.74%",
-    "uptimeDay": "1.74%",
-    "uptimeWeek": "1.74%",
-    "uptimeMonth": "1.74%",
-    "uptimeYear": "1.74%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "11.86%",
+    "uptimeDay": "11.86%",
+    "uptimeWeek": "11.86%",
+    "uptimeMonth": "11.86%",
+    "uptimeYear": "11.86%",
+    "time": 2157,
+    "timeDay": 2157,
+    "timeWeek": 2157,
+    "timeMonth": 2157,
+    "timeYear": 2157,
     "dailyMinutesDown": {
-      "2023-03-07": 0
+      "2023-03-07": 1
     }
   }
 ]
