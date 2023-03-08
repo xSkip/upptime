@@ -1,7 +1,7 @@
 url: $QIGONG_URL
-status: up
-code: 200
-responseTime: 2183
-lastUpdated: 2023-03-07T23:18:29.901Z
+status: down
+code: 500
+responseTime: 582
+lastUpdated: 2023-03-08T10:14:28.380Z
 startTime: Tue Mar 07 2023 19:45:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
