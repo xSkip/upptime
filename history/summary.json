@@ -13,7 +13,7 @@
     "time": 1209,
     "timeDay": 1510,
     "timeWeek": 1102,
-    "timeMonth": 1182,
+    "timeMonth": 1155,
     "timeYear": 1209,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1411,
     "timeDay": 1428,
     "timeWeek": 1285,
-    "timeMonth": 1377,
+    "timeMonth": 1374,
     "timeYear": 1411,
     "dailyMinutesDown": {
       "2023-04-06": 18,
@@ -52,7 +52,7 @@
     "time": 1130,
     "timeDay": 880,
     "timeWeek": 705,
-    "timeMonth": 741,
+    "timeMonth": 744,
     "timeYear": 1130,
     "dailyMinutesDown": {
       "2023-03-12": 62
@@ -72,7 +72,7 @@
     "time": 1825,
     "timeDay": 1631,
     "timeWeek": 1946,
-    "timeMonth": 1877,
+    "timeMonth": 1895,
     "timeYear": 1825,
     "dailyMinutesDown": {
       "2023-03-08": 18
@@ -84,18 +84,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "deine-zeit",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 1598,
     "timeDay": 1634,
     "timeWeek": 1573,
-    "timeMonth": 1574,
+    "timeMonth": 1578,
     "timeYear": 1598,
     "dailyMinutesDown": {
-      "2023-04-12": 1,
       "2023-03-08": 18
     }
   },
@@ -105,18 +104,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "msvo",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 1918,
     "timeDay": 2712,
     "timeWeek": 1967,
-    "timeMonth": 1876,
+    "timeMonth": 1860,
     "timeYear": 1918,
     "dailyMinutesDown": {
-      "2023-04-12": 1,
       "2023-03-08": 18
     }
   }
