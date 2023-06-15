@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1258,
-    "timeDay": 1234,
-    "timeWeek": 949,
-    "timeMonth": 1371,
-    "timeYear": 1258,
+    "time": 1260,
+    "timeDay": 1464,
+    "timeWeek": 1086,
+    "timeMonth": 1362,
+    "timeYear": 1260,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1416,
-    "timeDay": 1392,
-    "timeWeek": 1255,
-    "timeMonth": 1385,
-    "timeYear": 1416,
+    "time": 1417,
+    "timeDay": 1499,
+    "timeWeek": 1301,
+    "timeMonth": 1396,
+    "timeYear": 1417,
     "dailyMinutesDown": {
       "2023-04-06": 18,
       "2023-03-08": 18
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
-    "time": 966,
-    "timeDay": 649,
-    "timeWeek": 639,
-    "timeMonth": 842,
-    "timeYear": 966,
+    "time": 963,
+    "timeDay": 689,
+    "timeWeek": 672,
+    "timeMonth": 835,
+    "timeYear": 963,
     "dailyMinutesDown": {
       "2023-05-30": 44,
       "2023-03-12": 62
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1844,
-    "timeDay": 1878,
-    "timeWeek": 1751,
-    "timeMonth": 1854,
-    "timeYear": 1844,
+    "time": 1839,
+    "timeDay": 1376,
+    "timeWeek": 1569,
+    "timeMonth": 1856,
+    "timeYear": 1839,
     "dailyMinutesDown": {
       "2023-03-08": 18
     }
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1557,
-    "timeDay": 1460,
-    "timeWeek": 1408,
-    "timeMonth": 1494,
+    "timeDay": 1521,
+    "timeWeek": 1436,
+    "timeMonth": 1497,
     "timeYear": 1557,
     "dailyMinutesDown": {
       "2023-03-08": 18
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1830,
-    "timeDay": 1569,
-    "timeWeek": 1465,
-    "timeMonth": 1735,
-    "timeYear": 1830,
+    "time": 1831,
+    "timeDay": 1884,
+    "timeWeek": 1583,
+    "timeMonth": 1755,
+    "timeYear": 1831,
     "dailyMinutesDown": {
       "2023-03-08": 18
     }
