@@ -122,5 +122,25 @@
       "2023-07-01": 19,
       "2023-03-08": 18
     }
+  },
+  {
+    "name": "Foersternaehrung",
+    "url": "$FOERST_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "foersternaehrung",
+    "status": "up",
+    "uptime": "4.42%",
+    "uptimeDay": "4.42%",
+    "uptimeWeek": "4.42%",
+    "uptimeMonth": "4.42%",
+    "uptimeYear": "4.42%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-09-20": 0
+    }
   }
 ]
