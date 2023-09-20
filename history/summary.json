@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1280,
-    "timeDay": 1790,
-    "timeWeek": 1277,
-    "timeMonth": 1320,
-    "timeYear": 1280,
+    "time": 1283,
+    "timeDay": 1789,
+    "timeWeek": 1333,
+    "timeMonth": 1334,
+    "timeYear": 1283,
     "dailyMinutesDown": {}
   },
   {
@@ -129,18 +129,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foersternaehrung",
     "status": "up",
-    "uptime": "5.13%",
-    "uptimeDay": "5.13%",
-    "uptimeWeek": "5.13%",
-    "uptimeMonth": "5.13%",
-    "uptimeYear": "5.13%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2009,
     "timeDay": 2009,
     "timeWeek": 2009,
     "timeMonth": 2009,
     "timeYear": 2009,
-    "dailyMinutesDown": {
-      "2023-09-20": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
