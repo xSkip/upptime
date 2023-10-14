@@ -1,7 +1,7 @@
 url: $MSVO_URL
-status: down
-code: 500
-responseTime: 739
-lastUpdated: 2023-10-14T10:59:43.802Z
+status: up
+code: 200
+responseTime: 2121
+lastUpdated: 2023-10-14T11:13:09.304Z
 startTime: 2023-03-07T19:45:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
