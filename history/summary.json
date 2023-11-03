@@ -149,19 +149,19 @@
     "url": "$FCGGPA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fcg-gpa",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4942,
-    "timeDay": 16888,
-    "timeWeek": 5633,
-    "timeMonth": 5007,
-    "timeYear": 4942,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 4979,
+    "timeDay": 11773,
+    "timeWeek": 5761,
+    "timeMonth": 5057,
+    "timeYear": 4979,
     "dailyMinutesDown": {
-      "2023-11-03": 0
+      "2023-11-03": 7
     }
   }
 ]
