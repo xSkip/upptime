@@ -22,9 +22,9 @@
     "url": "$QIGONG_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qigong-im-marchfeld",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.97%",
@@ -34,6 +34,7 @@
     "timeMonth": 1453,
     "timeYear": 1484,
     "dailyMinutesDown": {
+      "2023-12-10": 0,
       "2023-11-29": 45,
       "2023-11-14": 15,
       "2023-11-08": 16,
@@ -158,9 +159,9 @@
     "slug": "fcg-gpa",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.92%",
     "time": 6029,
     "timeDay": 15992,
@@ -168,7 +169,6 @@
     "timeMonth": 7782,
     "timeYear": 6029,
     "dailyMinutesDown": {
-      "2023-12-10": 7,
       "2023-12-05": 87
     }
   }
