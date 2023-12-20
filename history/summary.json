@@ -4,9 +4,9 @@
     "url": "$MARIO_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mario-urbancic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1278,
     "timeMonth": 1329,
     "timeYear": 1288,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-20": 0
+    }
   },
   {
     "name": "Qigong im Marchfeld",
@@ -30,7 +32,7 @@
     "uptimeYear": "99.97%",
     "time": 1485,
     "timeDay": 1228,
-    "timeWeek": 1352,
+    "timeWeek": 1333,
     "timeMonth": 1501,
     "timeYear": 1485,
     "dailyMinutesDown": {
@@ -75,9 +77,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 1989,
-    "timeDay": 2159,
-    "timeWeek": 2259,
-    "timeMonth": 2273,
+    "timeDay": 2053,
+    "timeWeek": 2255,
+    "timeMonth": 2275,
     "timeYear": 1989,
     "dailyMinutesDown": {
       "2023-11-29": 45,
@@ -99,7 +101,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1676,
-    "timeDay": 1607,
+    "timeDay": 1404,
     "timeWeek": 1666,
     "timeMonth": 1900,
     "timeYear": 1676,
