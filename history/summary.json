@@ -178,19 +178,19 @@
     "url": "$FCGGPAENTW_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fcg-gpa-entwicklung",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.69%",
+    "uptimeDay": "2.69%",
+    "uptimeWeek": "2.69%",
+    "uptimeMonth": "2.69%",
+    "uptimeYear": "2.69%",
+    "time": 2386,
+    "timeDay": 2386,
+    "timeWeek": 2386,
+    "timeMonth": 2386,
+    "timeYear": 2386,
     "dailyMinutesDown": {
-      "2024-02-22": 0
+      "2024-02-22": 6
     }
   }
 ]
