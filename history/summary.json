@@ -13,7 +13,7 @@
     "time": 1290,
     "timeDay": 1377,
     "timeWeek": 1099,
-    "timeMonth": 1212,
+    "timeMonth": 1167,
     "timeYear": 1291,
     "dailyMinutesDown": {
       "2023-12-27": 17
@@ -24,18 +24,19 @@
     "url": "$QIGONG_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qigong-im-marchfeld",
-    "status": "up",
-    "uptime": "94.52%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "94.53%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "31.85%",
     "uptimeYear": "94.30%",
     "time": 1486,
     "timeDay": 2115,
     "timeWeek": 1584,
-    "timeMonth": 1534,
+    "timeMonth": 1555,
     "timeYear": 1484,
     "dailyMinutesDown": {
+      "2024-03-22": 0,
       "2024-03-14": 518,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -79,7 +80,7 @@
     "time": 856,
     "timeDay": 674,
     "timeWeek": 783,
-    "timeMonth": 762,
+    "timeMonth": 769,
     "timeYear": 812,
     "dailyMinutesDown": {
       "2023-05-30": 44
@@ -99,7 +100,7 @@
     "time": 2014,
     "timeDay": 2267,
     "timeWeek": 2241,
-    "timeMonth": 2251,
+    "timeMonth": 2255,
     "timeYear": 2030,
     "dailyMinutesDown": {
       "2023-11-29": 45,
@@ -122,7 +123,7 @@
     "time": 1681,
     "timeDay": 1678,
     "timeWeek": 1741,
-    "timeMonth": 1762,
+    "timeMonth": 1768,
     "timeYear": 1683,
     "dailyMinutesDown": {
       "2024-03-04": 16,
@@ -167,7 +168,7 @@
     "time": 1591,
     "timeDay": 1883,
     "timeWeek": 1527,
-    "timeMonth": 1486,
+    "timeMonth": 1478,
     "timeYear": 1591,
     "dailyMinutesDown": {
       "2023-12-05": 16
@@ -187,7 +188,7 @@
     "time": 5431,
     "timeDay": 1570,
     "timeWeek": 4072,
-    "timeMonth": 4563,
+    "timeMonth": 4653,
     "timeYear": 5431,
     "dailyMinutesDown": {
       "2023-12-05": 87
@@ -202,12 +203,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2736,
     "timeDay": 3269,
     "timeWeek": 2762,
-    "timeMonth": 2736,
+    "timeMonth": 2748,
     "timeYear": 2736,
     "dailyMinutesDown": {
       "2024-02-22": 6
