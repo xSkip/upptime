@@ -25,10 +25,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qigong-im-marchfeld",
     "status": "up",
-    "uptime": "94.67%",
+    "uptime": "94.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "59.37%",
+    "uptimeMonth": "62.16%",
     "uptimeYear": "94.29%",
     "time": 1492,
     "timeDay": 2062,
@@ -100,7 +100,7 @@
     "time": 2019,
     "timeDay": 2390,
     "timeWeek": 2114,
-    "timeMonth": 2205,
+    "timeMonth": 2194,
     "timeYear": 2040,
     "dailyMinutesDown": {
       "2023-11-29": 45,
@@ -123,7 +123,7 @@
     "time": 1679,
     "timeDay": 1612,
     "timeWeek": 1576,
-    "timeMonth": 1751,
+    "timeMonth": 1714,
     "timeYear": 1685,
     "dailyMinutesDown": {
       "2024-03-04": 16,
@@ -179,9 +179,9 @@
     "url": "$FCGGPA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fcg-gpa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -191,6 +191,7 @@
     "timeMonth": 4380,
     "timeYear": 5337,
     "dailyMinutesDown": {
+      "2024-04-02": 0,
       "2023-12-05": 87
     }
   },
