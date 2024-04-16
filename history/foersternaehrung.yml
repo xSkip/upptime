@@ -1,7 +1,7 @@
 url: $FOERST_URL
-status: down
-code: 500
-responseTime: 709
-lastUpdated: 2024-04-16T10:51:57.059Z
+status: up
+code: 200
+responseTime: 1820
+lastUpdated: 2024-04-16T11:00:24.030Z
 startTime: 2023-09-20T15:38:28.726Z
 generator: Upptime <https://github.com/upptime/upptime>
