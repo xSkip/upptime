@@ -1,7 +1,7 @@
 url: $FCGGPAENTW_URL
-status: up
-code: 200
-responseTime: 2998
-lastUpdated: 2024-04-15T23:14:54.924Z
+status: down
+code: 500
+responseTime: 929
+lastUpdated: 2024-04-16T10:52:05.659Z
 startTime: 2024-02-22T08:33:49.302Z
 generator: Upptime <https://github.com/upptime/upptime>
