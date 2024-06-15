@@ -184,9 +184,9 @@
     "slug": "fcg-gpa",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 4937,
     "timeDay": 2609,
@@ -194,7 +194,6 @@
     "timeMonth": 4055,
     "timeYear": 4937,
     "dailyMinutesDown": {
-      "2024-06-14": 8,
       "2024-05-20": 23,
       "2024-05-01": 34,
       "2023-12-05": 87
