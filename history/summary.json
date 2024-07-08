@@ -72,19 +72,19 @@
     "url": "$KAMPTAL_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kamptal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 829,
-    "timeDay": 682,
-    "timeWeek": 1091,
-    "timeMonth": 812,
-    "timeYear": 791,
+    "timeDay": 689,
+    "timeWeek": 1042,
+    "timeMonth": 808,
+    "timeYear": 790,
     "dailyMinutesDown": {
-      "2024-07-08": 0
+      "2024-07-08": 18
     }
   },
   {
