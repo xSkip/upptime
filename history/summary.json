@@ -13,7 +13,7 @@
     "time": 1265,
     "timeDay": 1968,
     "timeWeek": 1242,
-    "timeMonth": 1291,
+    "timeMonth": 1293,
     "timeYear": 1261,
     "dailyMinutesDown": {
       "2023-12-27": 17
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "qigong-im-marchfeld",
     "status": "up",
-    "uptime": "96.05%",
+    "uptime": "96.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
@@ -33,7 +33,7 @@
     "time": 1644,
     "timeDay": 2358,
     "timeWeek": 1988,
-    "timeMonth": 2143,
+    "timeMonth": 2111,
     "timeYear": 1700,
     "dailyMinutesDown": {
       "2024-08-05": 21,
@@ -82,7 +82,7 @@
     "time": 823,
     "timeDay": 606,
     "timeWeek": 789,
-    "timeMonth": 787,
+    "timeMonth": 791,
     "timeYear": 787,
     "dailyMinutesDown": {
       "2024-07-22": 18,
@@ -103,8 +103,8 @@
     "time": 2202,
     "timeDay": 2368,
     "timeWeek": 2892,
-    "timeMonth": 2800,
-    "timeYear": 2300,
+    "timeMonth": 2811,
+    "timeYear": 2301,
     "dailyMinutesDown": {
       "2024-06-10": 18,
       "2024-06-07": 639,
@@ -130,8 +130,8 @@
     "time": 1741,
     "timeDay": 1792,
     "timeWeek": 1859,
-    "timeMonth": 2061,
-    "timeYear": 1814,
+    "timeMonth": 1940,
+    "timeYear": 1810,
     "dailyMinutesDown": {
       "2024-07-02": 71,
       "2024-06-18": 19,
@@ -146,18 +146,19 @@
     "url": "$MSVO_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "msvo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1972,
     "timeDay": 1998,
     "timeWeek": 2087,
-    "timeMonth": 2033,
+    "timeMonth": 2015,
     "timeYear": 2010,
     "dailyMinutesDown": {
+      "2024-08-19": 0,
       "2024-07-02": 71,
       "2024-06-18": 19,
       "2024-03-04": 17,
@@ -178,7 +179,7 @@
     "time": 1588,
     "timeDay": 1949,
     "timeWeek": 1863,
-    "timeMonth": 1752,
+    "timeMonth": 1775,
     "timeYear": 1588,
     "dailyMinutesDown": {
       "2024-06-11": 18,
@@ -199,7 +200,7 @@
     "time": 4602,
     "timeDay": 4083,
     "timeWeek": 2970,
-    "timeMonth": 3044,
+    "timeMonth": 3114,
     "timeYear": 4602,
     "dailyMinutesDown": {
       "2024-05-20": 23,
@@ -221,7 +222,7 @@
     "time": 2038,
     "timeDay": 1095,
     "timeWeek": 893,
-    "timeMonth": 863,
+    "timeMonth": 876,
     "timeYear": 2038,
     "dailyMinutesDown": {
       "2024-02-22": 6
