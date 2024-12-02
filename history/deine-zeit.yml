@@ -1,7 +1,7 @@
 url: $DEINEZEIT_URL
-status: down
-code: 500
-responseTime: 20591
-lastUpdated: 2024-12-02T08:30:43.317Z
+status: up
+code: 200
+responseTime: 2824
+lastUpdated: 2024-12-02T09:18:43.289Z
 startTime: 2023-03-07T19:45:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
