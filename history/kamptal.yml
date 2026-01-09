@@ -1,7 +1,7 @@
 url: $KAMPTAL_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-09T23:39:31.165Z
+status: up
+code: 200
+responseTime: 688
+lastUpdated: 2026-01-09T23:49:35.550Z
 startTime: 2023-03-07T19:45:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
