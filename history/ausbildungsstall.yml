@@ -1,7 +1,7 @@
 url: $AUSBILDUNGSSTALL_URL
-status: down
-code: 503
-responseTime: 4450
-lastUpdated: 2026-02-03T09:53:21.379Z
+status: up
+code: 200
+responseTime: 3646
+lastUpdated: 2026-02-03T10:28:48.781Z
 startTime: 2023-03-07T19:45:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
