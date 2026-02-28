@@ -1,7 +1,7 @@
 url: $FCGGPA_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-28T23:27:29.796Z
+status: up
+code: 200
+responseTime: 967
+lastUpdated: 2026-02-28T23:39:35.082Z
 startTime: 2023-09-20T15:49:28.019Z
 generator: Upptime <https://github.com/upptime/upptime>
