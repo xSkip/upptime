@@ -6,7 +6,7 @@
     "slug": "mario-urbancic",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "99.88%",
+    "uptimeDay": "99.86%",
     "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.91%",
@@ -84,8 +84,8 @@
     "slug": "qigong-im-marchfeld",
     "status": "down",
     "uptime": "98.29%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 2301,
@@ -122,7 +122,7 @@
       "2026-02-12": 20,
       "2026-02-18": 55,
       "2026-04-10": 131,
-      "2026-09-07": 1
+      "2026-09-07": 2
     }
   },
   {
@@ -132,8 +132,8 @@
     "slug": "kamptal",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.91%",
     "time": 902,
@@ -200,7 +200,7 @@
       "2026-04-27": 94,
       "2026-04-28": 113,
       "2026-04-29": 73,
-      "2026-09-07": 1
+      "2026-09-07": 2
     }
   },
   {
@@ -210,7 +210,7 @@
     "slug": "ausbildungsstall",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "99.92%",
+    "uptimeDay": "99.90%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
@@ -283,7 +283,7 @@
     "slug": "deine-zeit",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.93%",
+    "uptimeDay": "99.91%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
@@ -332,7 +332,7 @@
     "slug": "msvo",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.95%",
+    "uptimeDay": "99.92%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
@@ -378,11 +378,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "goosevillage-design-test",
     "status": "down",
-    "uptime": "22.97%",
-    "uptimeDay": "22.97%",
-    "uptimeWeek": "22.97%",
-    "uptimeMonth": "22.97%",
-    "uptimeYear": "22.97%",
+    "uptime": "16.90%",
+    "uptimeDay": "16.90%",
+    "uptimeWeek": "16.90%",
+    "uptimeMonth": "16.90%",
+    "uptimeYear": "16.90%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -399,8 +399,8 @@
     "slug": "fcg-gpa",
     "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
     "time": 920,
@@ -467,7 +467,7 @@
       "2026-04-27": 94,
       "2026-04-28": 113,
       "2026-04-29": 72,
-      "2026-09-07": 0
+      "2026-09-07": 1
     }
   }
 ]
