@@ -15,8 +15,8 @@ sites:
     url: $DEINEZEIT_URL
   - name: MSVO
     url: $MSVO_URL
-  - name: Foersternaehrung
-    url: $FOERST_URL
+  - name: Goosevillage Design
+    url: $GOOSE_URL
   - name: FCG GPA
     url: $FCGGPA_URL
 
